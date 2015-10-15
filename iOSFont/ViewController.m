@@ -79,7 +79,6 @@
     if (array.count == 0)
     {
         cell.textLabel.font = [UIFont fontWithName:key size:16];
-        
         cell.detailTextLabel.text = key;
     }
     else
